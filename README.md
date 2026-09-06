@@ -30,7 +30,7 @@ Telegram — did not turn up anywhere in search as of 2026-09-06.
 | Website chat widget | from ₪1,800 setup | Trained on the business's own content, one script tag, HE/EN/RU |
 | AI WhatsApp agent | from ₪4,000 + ₪600/mo | Same production AI WhatsApp agent already sold via `web.sipa-os.org`/EilatSecure — 24/7, HE/EN/RU |
 | Telegram bot | from ₪1,500 add-on / ₪2,500 standalone | Same knowledge base as other channels |
-| Enterprise: own model, own server | from ₪12,000 | Custom fine-tuned weights deployed on the client's own VPS/VM — no third-party inference provider ever sees the conversation, only the messaging platform (WhatsApp/Telegram) does, same as any bot on those networks |
+| Enterprise: own model, own server | from ₪3,900 + ₪250/mo | Custom fine-tuned weights deployed on the client's own VPS — no third-party inference provider ever sees the conversation, only the messaging platform (WhatsApp/Telegram) does, same as any bot on those networks. Priced against real unit cost: ~$25-100/mo VPS + ~$1.2/hr GPU for a small-model fine-tune (a couple hours incl. before/after eval) + ~$5 misc — roughly $150 all-in, marked up to a price still far below traditional enterprise fine-tuning offers |
 
 ## Honesty note on data flow (see `privacy.html` for the full version)
 
